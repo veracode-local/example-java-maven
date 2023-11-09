@@ -3,7 +3,7 @@
 An example maven project to demonstrate [srcclr](https://www.srcclr.com) scans.
 
 ## Try me!
-test text 123
+test text 12345
 
 ```
 brew tap srcclr/srcclr
